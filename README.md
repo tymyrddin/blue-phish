@@ -1,4 +1,4 @@
-# Digital forensics and incident response
+# Phishing analysis and prevention
 
 ![Publish blue-phish using Sphinx](https://github.com/tymyrddin/blue-phish/workflows/Publish%20blue-phish%20using%20Sphinx/badge.svg?branch=main)
  Deployed: https://tymyrddin.github.io/blue-phish/

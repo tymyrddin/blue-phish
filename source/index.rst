@@ -1,4 +1,4 @@
-Phishing
+Phishing analysis and prevention
 ====================================
 
 .. image:: _static/images/in-progress.png
