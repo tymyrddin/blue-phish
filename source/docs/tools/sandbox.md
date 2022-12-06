@@ -1,4 +1,4 @@
-# Malware Sandboxes
+# Malware sandboxes
 
 There are online tools and services where malicious files can be uploaded and analyzed to better understand what the 
 malware was programmed to do.
