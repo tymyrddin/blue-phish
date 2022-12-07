@@ -77,5 +77,10 @@ html_show_copyright = False
 intersphinx_mapping = {
     "blue": ("https://tymyrddin.github.io/blue/", None),
     "blue-mailserver": ("https://tymyrddin.github.io/blue-mailserver/", None),
+    "blue-macos": ("https://tymyrddin.github.io/blue-macos/", None),
+    "blue-windows": ("https://tymyrddin.github.io/blue-windows/", None),
+    "blue-linux": ("https://tymyrddin.github.io/blue-linux/", None),
+    "blue-ios": ("https://tymyrddin.github.io/blue-ios/", None),
+    "blue-android": ("https://tymyrddin.github.io/blue-android/", None),
 }
 myst_url_schemes = ["http", "https", ]

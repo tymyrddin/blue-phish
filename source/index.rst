@@ -26,6 +26,10 @@ Analysing and defending against phishing emails. Investigating real-world phishi
 
    docs/prevention/README.md
    Smarter mail servers <https://tymyrddin.github.io/blue-mailserver/>
+   docs/prevention/mime.md
+   docs/prevention/network.md
+   docs/prevention/c2.md
+   docs/prevention/training.md
 
 .. toctree::
    :glob:
