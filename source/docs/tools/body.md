@@ -20,3 +20,4 @@ If the email has an attachment: Obtain the attachment safely. Accomplishing this
 Note the root domain for the extracted URLs and do an analysis on the root domain as well. Also check the reputation 
 of the URLs and root domain.
 
+

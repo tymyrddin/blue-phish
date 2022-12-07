@@ -1,9 +1,6 @@
 Phishing analysis and prevention
 ====================================
 
-.. image:: _static/images/in-progress.png
-  :alt: In progress
-
 Analysing and defending against phishing emails. Investigating real-world phishing attempts using a variety of techniques.
 
 .. toctree::
@@ -20,6 +17,24 @@ Analysing and defending against phishing emails. Investigating real-world phishi
    docs/tools/case1.md
    docs/tools/case2.md
    docs/tools/case3.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Prevention
+
+   docs/prevention/README.md
+   Smarter mail servers <https://tymyrddin.github.io/blue-mailserver/>
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Challenges
+
+   docs/challenges/README.md
+   docs/challenges/greenholt.md
 
 .. toctree::
    :caption: Links
