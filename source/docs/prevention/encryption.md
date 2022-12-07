@@ -16,4 +16,4 @@ For security operations it can be a horror scenario. Encryption defangs antiviru
 tools, and e-mail archiving and retrieval systems. Outgoing email can be scanned before encryption, but for incoming 
 messages, where the scanning is done on a gateway or by an external service provider, this can be problematic.
 
-In short, it conflicts with other defences.
+In short, it conflicts with [many other possible defences](blue:index).

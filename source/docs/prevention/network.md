@@ -4,7 +4,7 @@ Phishing is classified as [Technique ID 1598 (T1598)](https://attack.mitre.org/t
 three sub-techniques: Spearphishing Service, Spearphishing Attachment and Spearphishing Link.
 
 The [NIST phishing incident response playbook](https://www.incidentresponse.org/workflows/download/Phishing.pdf) gives 
-the context and purpose for which NTA patterns will be re-useful for in IDS/IPS.
+the context and purpose for which patterns will be re-useful for in [NTA](blue-nta:index).
 
 ## Packet capture
 

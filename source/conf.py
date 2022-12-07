@@ -82,5 +82,6 @@ intersphinx_mapping = {
     "blue-linux": ("https://tymyrddin.github.io/blue-linux/", None),
     "blue-ios": ("https://tymyrddin.github.io/blue-ios/", None),
     "blue-android": ("https://tymyrddin.github.io/blue-android/", None),
+    "blue-nta": ("https://tymyrddin.github.io/blue-nta/", None),
 }
 myst_url_schemes = ["http", "https", ]

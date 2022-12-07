@@ -21,7 +21,7 @@ To help protect people from falling victim to a malicious email.
 ## How?
 
 * [Smarter mailservers](blue-mailserver:index)
-* [S/MIME](mime.md)
+* [S/MIME](encryption.md)
 * [Patterns for NTA](network.md)
 * [SMTP and C&C communication](c2.md)
 * [User training](training.md)
