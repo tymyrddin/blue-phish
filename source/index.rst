@@ -43,4 +43,4 @@ Analysing and defending against phishing emails. Investigating real-world phishi
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>
