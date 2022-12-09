@@ -25,7 +25,7 @@ Analysing and defending against phishing emails. Investigating real-world phishi
    :caption: Prevention
 
    docs/prevention/README.md
-   Smarter mail servers <https://tymyrddin.github.io/blue-mailserver/>
+   Smarter mail servers <https://blue.tymyrddin.dev/projects/mailserver/en/latest/>
    docs/prevention/encryption.md
    docs/prevention/network.md
    docs/prevention/c2.md
