@@ -39,8 +39,3 @@ Analysing and defending against phishing emails. Investigating real-world phishi
 
    docs/challenges/README.md
    docs/challenges/greenholt.md
-
-.. toctree::
-   :caption: Links
-
-   Blue Team <https://blue.tymyrddin.dev/>
