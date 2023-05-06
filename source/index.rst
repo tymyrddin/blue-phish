@@ -3,20 +3,32 @@ Phishing analysis and prevention
 
 Analysing and defending against phishing emails. Investigating real-world phishing attempts using a variety of techniques.
 
+----
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Testlab
+
+   Phishing analysis tools <https://blue.tymyrddin.dev/projects/testlab/en/latest/docs/phishing/README.html>
+
+----
+
+Notes on techniques
+-------------------------------------
+
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Analysis tools
+   :caption: Analysis
 
-   docs/tools/README.md
-   docs/tools/header.md
-   docs/tools/body.md
-   docs/tools/sandbox.md
-   docs/tools/phishtool.md
-   docs/tools/case1.md
-   docs/tools/case2.md
-   docs/tools/case3.md
+   docs/analysis/README.md
+   docs/analysis/header.md
+   docs/analysis/body.md
+   docs/analysis/case1.md
+   docs/analysis/case2.md
+   docs/analysis/case3.md
 
 .. toctree::
    :glob:
@@ -31,11 +43,13 @@ Analysing and defending against phishing emails. Investigating real-world phishi
    docs/prevention/c2.md
    docs/prevention/training.md
 
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Challenges
+   :caption: TryHackMe rooms
 
-   docs/challenges/README.md
-   docs/challenges/greenholt.md
+   docs/thm/README.md
+   docs/thm/greenholt.md
