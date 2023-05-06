@@ -29,9 +29,6 @@ Notes on techniques
    docs/analysis/README.md
    docs/analysis/header.md
    docs/analysis/body.md
-   docs/analysis/case1.md
-   docs/analysis/case2.md
-   docs/analysis/case3.md
 
 .. toctree::
    :glob:
@@ -55,4 +52,7 @@ Notes on techniques
    :caption: TryHackMe rooms
 
    docs/thm/README.md
+   docs/thm/case1.md
+   docs/thm/case2.md
+   docs/thm/case3.md
    docs/thm/greenholt.md

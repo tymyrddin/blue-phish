@@ -16,6 +16,3 @@ To avoid further compromise to systems.
 
 * [Email header analysis](header.md)
 * [Email body analysis](body.md)
-* [Case 1](case1.md)
-* [Case 2](case2.md)
-* [Case 3](case3.md)
