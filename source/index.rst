@@ -3,6 +3,9 @@ Phishing analysis and prevention
 
 Analysing and defending against phishing emails. Investigating real-world phishing attempts using a variety of techniques.
 
+.. image:: _static/images/in-progress.png
+  :alt: Forever in progress ...
+
 ----
 
 .. toctree::
