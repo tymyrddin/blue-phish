@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/blue-phish/badge/?version=latest)](https://blue.tymyrddin.dev/projects/phish/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3760dcb3-74f5-4f8e-941b-40c6b1fec237/deploy-status)](https://app.netlify.com/sites/vocal-naiad-cbd44c/deploys)
 
 ## Requirements
 
