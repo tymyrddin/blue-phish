@@ -1,18 +1,16 @@
-| ![Phishing](../../_static/images/phish-room-banner.png)
-|:--:|
-| [THM: Phishing Analysis Tools](https://tryhackme.com/room/phishingemails3tryoe) |
-
 # Introduction
 
 ## What?
 
-Analysing the tactics, techniques and procedures (TTPs) employed by phishing operators and developers.
+Investigating known MITRE tactics, techniques and procedures (TTPs) employed by adversaries for compromising [iOS](https://attack.mitre.org/matrices/mobile/ios/) and [Android](https://attack.mitre.org/matrices/mobile/android/).
 
 ## Why?
 
-To avoid further compromise to systems.
+Gain further insights into common compromises.
 
 ## How?
 
-* [Email header analysis](header.md)
-* [Email body analysis](body.md)
+* [Phishing for information](network.md)
+* [Application Layer Protocol: Mail Protocols](c2.md)
+* [Drive-by compromise](drive-by.md)
+* [Supply chain compromise](supply-chain.md)

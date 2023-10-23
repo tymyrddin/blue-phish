@@ -1,4 +1,4 @@
-# Signatures and encryption
+# Signatures and encryption problem
 
 E-mail encryption methods (such as S/MIME, PGP, proprietary Web mail portals, and so on) to protect e-mail both 
 within an organisation and externally are increasingly used.
@@ -16,4 +16,4 @@ For security operations it can be a horror scenario. Encryption defangs antiviru
 tools, and e-mail archiving and retrieval systems. Outgoing email can be scanned before encryption, but for incoming 
 messages, where the scanning is done on a gateway or by an external service provider, this can be problematic.
 
-In short, it conflicts with [many other possible defences](blue:index).
+In short, it conflicts with many other possible defences.

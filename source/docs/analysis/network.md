@@ -1,10 +1,10 @@
-# Patterns for NTA
+# Phishing for information
 
 Phishing is classified as [Technique ID 1598 (T1598)](https://attack.mitre.org/techniques/T1598/), and it contains 
 three sub-techniques: Spearphishing Service, Spearphishing Attachment and Spearphishing Link.
 
 The [NIST phishing incident response playbook](https://www.incidentresponse.org/workflows/download/Phishing.pdf) gives 
-the context and purpose for which patterns will be re-useful for in [NTA](blue-nta:index).
+the context and purpose for which patterns will be re-useful for in [NTA](https://nta.tymyrddin.dev/).
 
 ## Packet capture
 
@@ -16,7 +16,7 @@ Message for status code 220:
 
 Blocked email: `553`, `mailbox name not allowed`
 
-Status code typically preceding a SMTP DATA command: `354`
+Status code typically preceding an SMTP DATA command: `354`
 
 ## Traffic analysis
 
