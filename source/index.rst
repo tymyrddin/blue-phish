@@ -1,12 +1,6 @@
 Mobile threats
 ====================================
 
-***Phishing*** (Email), ***Smishing*** (SMS/text message), and ***Vishing*** (Phone, robocall, voicemail, voice over internet protocol (VoIP)) are some ways an adversary might use to contact you in an attempt to gather personal information about you.
-
-
-
-The known tactics, techniques and procedures (TTPs) employed by mobile adversaries.
-
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
 
@@ -28,7 +22,7 @@ The known tactics, techniques and procedures (TTPs) employed by mobile adversari
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Notes
+   :caption: Notes on threats
 
    docs/notes/README.md
    docs/notes/malware.md
@@ -79,3 +73,4 @@ The known tactics, techniques and procedures (TTPs) employed by mobile adversari
    docs/thm/case2.md
    docs/thm/case3.md
    docs/thm/greenholt.md
+   Android malware analysis (Pithus and jadx) <https://dfir.tymyrddin.dev/docs/thm/android>
