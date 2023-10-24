@@ -74,3 +74,13 @@ Mobile threats
    docs/thm/greenholt.md
    Android malware analysis (Pithus and jadx) <https://dfir.tymyrddin.dev/docs/thm/android>
    iOS forensics (SQLiteDB) <https://dfir.tymyrddin.dev/docs/thm/ios>
+
+----
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Root-me challenges
+
+   APK anti-debug <https://reverse.tymyrddin.dev/docs/root-me/apk-anti-debug>
