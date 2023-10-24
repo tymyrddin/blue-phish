@@ -12,7 +12,6 @@ Mobile threats
    :caption: Testlab
 
    Phishing analysis tools <https://testlab.tymyrddin.dev/docs/phishing/README>
-   DFIR tools <https://testlab.tymyrddin.dev/docs/dfir/README>
    Mobile tools <https://testlab.tymyrddin.dev/docs/mobile/README>
    RE tools <https://testlab.tymyrddin.dev/docs/dis/README>
 
@@ -74,3 +73,4 @@ Mobile threats
    docs/thm/case3.md
    docs/thm/greenholt.md
    Android malware analysis (Pithus and jadx) <https://dfir.tymyrddin.dev/docs/thm/android>
+   iOS forensics (SQLiteDB) <https://dfir.tymyrddin.dev/docs/thm/ios>

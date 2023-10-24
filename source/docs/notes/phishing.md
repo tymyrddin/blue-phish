@@ -1,7 +1,5 @@
 # Phishing
 
-***Phishing*** (Email) is a way an adversary might use to contact you in an attempt to gather personal information about you, or worse.
-
 Phishing attempts to trick people into clicking on fraudulent links in emails. The link typically takes the person to a seemingly legitimate site with a malware download, or even just a form that asks them to type in their usernames, passwords, credit card numbers, bank account details, and other private information.
 
 ## Detection
@@ -15,47 +13,19 @@ Phishing attempts to trick people into clicking on fraudulent links in emails. T
 * Generic greetings are not the common practices of legitimate companies.
 * Poor quality logos that are unclear or smaller than usual.
 
-### Email header analysis 
+Mind that with AI-driven content tools broadly available at a low or no cost, adversaries are using AI to make their phishing emails and text messages appear more realistic than ever before. Trust your gut, and if suspicious, do some analysis.
 
-Copy and paste the entire email header and run an analysis tool.
+## Analysis
 
-* [Messageheader](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
-* [Message Header Analyzer](https://mha.azurewebsites.net/)
-* [mailheader.org](https://mailheader.org/)
-
-It is good to have multiple resources to refer to as each tool might reveal information that another tool may not reveal.
-
-### Sender's IP address
-
-* [IPinfo.io](https://ipinfo.io/)
-* [URLScan.io](https://urlscan.io/)  provides a screenshot of the URL. This screenshot is provided, so you don't have to navigate to the URL in question explicitly.
-* [Talos Reputation Center](https://talosintelligence.com/reputation)
-
-#### URLs
-
-* [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
-* [CyberChef Extract URLs recipe](https://gchq.github.io/CyberChef/)
-
-Note the root domain for the extracted URLs and do an analysis on the root domain as well. Also check the reputation 
-of the URLs and root domain.
-
-## Mitigation
-
-* Never open an attachment unless certain that the communication is from a genuine source.
-* Run an online virus or malware scanner on files before downloading attachments.
-
-### Attachments
-
-If the email has an attachment: Obtain the attachment safely. Accomplishing this is easy in Thunderbird by using the 
-`Save` button. Get its hash and check the file's reputation with the hash to see if it's a known malicious document.
-
-* [Talos File Reputation](https://talosintelligence.com/talos_file_reputation)
-* [VirusTotal](https://www.virustotal.com/gui/)
-* [Reversing Labs file reputation](https://register.reversinglabs.com/file_reputation)
-* [Norimaci – Simple And Lightweight Malware Analysis Sandbox For macOS](https://haxf4rall.com/2022/06/24/norimaci-simple-and-lightweight-malware-analysis-sandbox-for-macos-2/)
+* Copy and paste the entire email header and run an [email header analysis tool](https://testlab.tymyrddin.dev/docs/phishing/header). It is good to have multiple resources to refer to as each tool might reveal information that another tool may not reveal.
+* [Extract urls from the text](https://testlab.tymyrddin.dev/docs/phishing/url) for further analysis.
+* [Check sender's IP address and urls found in the text](https://testlab.tymyrddin.dev/docs/phishing/ip).
+* If the email has an attachment: Obtain the attachment safely. If you don't know how, ask someone who does. Get its hash and [check the file's reputation](https://testlab.tymyrddin.dev/docs/phishing/rep) with the hash to see if it's a known malicious document.
+* Upload it to a [sandbox](https://testlab.tymyrddin.dev/docs/phishing/sandbox) for dynamic analysis.
 
 ## Prevention
 
+* Never open an attachment unless certain that the communication is from a genuine source.
 * Monitor personal and private accounts and look at the settings. Multifactor verification is a feature that secures email and work accounts.
 * Set up at least two email addresses: a private address and a public address.
    * The private address should not be your first and last name, and be protected by never being used on publicly accessible online resources. Or masked. Proton vault and other services allow for this. Or use a graphics file. If it is discovered, change it.
