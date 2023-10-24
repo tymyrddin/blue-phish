@@ -18,6 +18,7 @@ It is definitely a recognised growing threat and needs to be addressed. First of
 * [Vishing](vishing.md)
 * [SIM swapping](swapping.md)
 * [OTP bots](otp-bots.md)
+* [Drive-by download](drive-by.md)
 * [App squatting](squatting.md)
 * [Madware](madware.md)
 * [Spyware](spyware.md)

@@ -30,6 +30,7 @@ Mobile threats
    docs/notes/vishing.md
    docs/notes/swapping.md
    docs/notes/otp-bots.md
+   docs/notes/drive-by.md
    docs/notes/squatting.md
    docs/notes/madware.md
    docs/notes/spyware.md
