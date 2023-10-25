@@ -18,6 +18,6 @@ To maintain share writeups on how to mitigate mobile threats.
 
 * [Smarter mailservers](https://mailserver.tymyrddin.dev/)
 * [User training](training.md)
-* [Mail signatures and encryption problem](encryption.md)
+* [Mail signatures and encryption problem](problem.md)
 
 

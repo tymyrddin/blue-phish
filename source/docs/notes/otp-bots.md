@@ -6,7 +6,7 @@ OTP bots use the normal process of getting a one-time password for authenticatio
 
 * The adversary gives the victim’s information to the OTP bot.
 * The OTP bot contacts the victim and asks for the account OTP. This can be by [smishing](smishing.md) or by [robocall](vishing.md) for example, asking for authorisation of a charge, or whether a given code is correct, and if not, please give us the correct code.
-* The victim provides or enters the OTP for the bot.
+* The victim provides or enters the OTP.
 * The bot distracts the victim while the adversary accesses the account instead.
 * The adversary then steals money or card information from the victim's account.
 

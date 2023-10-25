@@ -42,7 +42,7 @@ Mobile threats
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: MITRE
+   :caption: Mitre Att&Ck
 
    docs/analysis/README.md
    docs/analysis/drive-by.md
@@ -54,12 +54,12 @@ Mobile threats
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Prevention
+   :caption: Defences
 
    docs/prevention/README.md
    Smarter mail servers <https://mailserver.tymyrddin.dev/>
    docs/prevention/training.md
-   docs/prevention/encryption.md
+   docs/prevention/problem.md
 
 ----
 
