@@ -8,15 +8,18 @@ Apparently it is still not as pervasive as malware that attacks traditional work
 
 ## Why?
 
-It is definitely a recognised growing threat and needs to be addressed. First off, by some research into known TTP's.
+It is definitely a recognised/growing threat and needs to be addressed. 
 
 ## How?
+
+First off, by some research into known threats.
 
 * [Common mobile malware](malware.md)
 * [Phishing](phishing.md)
 * [Smishing](smishing.md)
 * [Vishing](vishing.md)
 * [SIM swapping](swapping.md)
+* [MFA bypass attacks](mfa.md)
 * [OTP bots](otp-bots.md)
 * [Drive-by download](drive-by.md)
 * [App squatting](squatting.md)

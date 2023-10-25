@@ -29,6 +29,7 @@ Mobile threats
    docs/notes/smishing.md
    docs/notes/vishing.md
    docs/notes/swapping.md
+   docs/notes/mfa.md
    docs/notes/otp-bots.md
    docs/notes/drive-by.md
    docs/notes/squatting.md
