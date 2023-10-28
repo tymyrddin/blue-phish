@@ -29,9 +29,11 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
    docs/general/terms.md
    docs/general/trends.md
    docs/general/malware.md
+   docs/general/ransomware.md
    docs/general/phishing.md
    docs/general/mfa.md
    docs/general/drive-by.md
+   docs/general/botnets.md
 
 .. toctree::
    :glob:
@@ -49,6 +51,7 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
    docs/mobile/otp-bots.md
    docs/general/drive-by.md
    docs/mobile/squatting.md
+   docs/mobile/ransomware.md
    docs/mobile/madware.md
    docs/mobile/spyware.md
    docs/mobile/infostealer.md
@@ -63,6 +66,7 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
 
    docs/workstation/README.md
    docs/workstation/malware.md
+   docs/workstation/ransomware.md
    docs/general/phishing.md
    docs/general/mfa.md
    docs/general/drive-by.md

@@ -23,6 +23,7 @@ First off, by some research into known threats.
 * [OTP bots](otp-bots.md)
 * [Drive-by download](../general/drive-by.md)
 * [App squatting](squatting.md)
+* [Ransomware](ransomware.md)
 * [Madware](madware.md)
 * [Spyware](spyware.md)
 * [Infostealer](infostealer.md)

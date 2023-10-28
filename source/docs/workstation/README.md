@@ -15,6 +15,7 @@ It is definitely a recognised/growing threat, and needs to be addressed.
 First off, by some research into known threats.
 
 * [Malware on workstations](malware.md)
+* [Ransomware](../general/ransomware.md)
 * [Phishing](../general/phishing.md)
 * [MFA bypass attacks](../general/mfa.md)
 * [Drive-by download](../general/drive-by.md)

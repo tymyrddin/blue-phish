@@ -13,6 +13,8 @@ Provide a background.
 * [Terms](terms.md)
 * [Threat trends](trends.md)
 * [Malware](malware.md)
+* [Ransomware](ransomware.md)
 * [Phishing in general](phishing.md)
 * [MFA bypass attacks](mfa.md)
 * [Drive-by download](drive-by.md)
+* [Botnets](botnets.md)
