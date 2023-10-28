@@ -80,9 +80,10 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
    :caption: Mitre Att&Ck
 
    docs/mitre/README.md
+   docs/mitre/iocs.md
    docs/mitre/drive-by.md
    docs/mitre/supply-chain.md
-   docs/mitre/network.md
+   docs/mitre/phishing.md
    docs/mitre/c2.md
 
 .. toctree::

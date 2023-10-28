@@ -8,7 +8,7 @@ Mobile ransomware sneaks onto your device using social engineering tactics that 
 
 Android ransomware often masquerades as a. Traditional ransomware encrypts the files on a device, and some, but not all, Android ransomware variants do encrypt. Different types of techniques can be used to deny a victim access to the device:
 
-* Abusing functionalities, for example, `AndroidOS.MalLocker.B` takes advantage of a high-priority ***call notification*** and overrides the `onUserLeaveHint()` callback to pop up the ransom note. This callback runs when the user presses the ***Home** button or closes an app, thereby preventing dismissing the ransom note.
+* Abusing functionalities, for example, `AndroidOS.MalLocker.B` takes advantage of a high-priority ***call notification*** and overrides the `onUserLeaveHint()` callback to pop up the ransom note. This callback runs when the user presses the ***Home*** button or closes an app, thereby preventing dismissing the ransom note.
 * Hijacking permissions works by abusing the permission `SYSTEM_ALERT_WINDOW`, which allows an application to overlay a window on top of all other phone apps. 
 * Resetting device PIN to prevent access to the device, often used in combination with encrypting files. Examples of these are  DoubleLocker and CovidLock.
 
