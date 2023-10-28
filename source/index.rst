@@ -1,5 +1,7 @@
-Mobile threats
+Threat landscape
 ====================================
+
+Threat landscapes usually describe attack surfaces and threats to corporations, and hardly to users. This is to clarify and research threats to people's devices, and where possible, link in DIY device hardening how-tos.
 
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
@@ -21,22 +23,51 @@ Mobile threats
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Notes on threats
+   :caption: General threats
 
-   docs/notes/README.md
-   docs/notes/malware.md
-   docs/notes/phishing.md
-   docs/notes/smishing.md
-   docs/notes/vishing.md
-   docs/notes/swapping.md
-   docs/notes/mfa.md
-   docs/notes/otp-bots.md
-   docs/notes/drive-by.md
-   docs/notes/squatting.md
-   docs/notes/madware.md
-   docs/notes/spyware.md
-   docs/notes/infostealer.md
-   docs/notes/stalkerware.md
+   docs/general/README.md
+   docs/general/terms.md
+   docs/general/trends.md
+   docs/general/malware.md
+   docs/general/phishing.md
+   docs/general/mfa.md
+   docs/general/drive-by.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Mobile threats
+
+   docs/mobile/README.md
+   docs/mobile/malware.md
+   docs/general/phishing.md
+   docs/mobile/smishing.md
+   docs/mobile/vishing.md
+   docs/mobile/swapping.md
+   docs/general/mfa.md
+   docs/mobile/otp-bots.md
+   docs/general/drive-by.md
+   docs/mobile/squatting.md
+   docs/mobile/madware.md
+   docs/mobile/spyware.md
+   docs/mobile/infostealer.md
+   docs/mobile/tracking.md
+   docs/mobile/stalkerware.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Workstation threats
+
+   docs/workstation/README.md
+   docs/workstation/malware.md
+   docs/general/phishing.md
+   docs/general/mfa.md
+   docs/general/drive-by.md
+
+----
 
 .. toctree::
    :glob:
@@ -44,22 +75,35 @@ Mobile threats
    :includehidden:
    :caption: Mitre Att&Ck
 
-   docs/analysis/README.md
-   docs/analysis/drive-by.md
-   docs/analysis/supply-chain.md
-   docs/analysis/network.md
-   docs/analysis/c2.md
+   docs/mitre/README.md
+   docs/mitre/drive-by.md
+   docs/mitre/supply-chain.md
+   docs/mitre/network.md
+   docs/mitre/c2.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Defences
+   :caption: Defence strategies
 
    docs/prevention/README.md
-   Smarter mail servers <https://mailserver.tymyrddin.dev/>
    docs/prevention/training.md
    docs/prevention/problem.md
+   Smarter mail servers <https://mailserver.tymyrddin.dev/>
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: DIY
+
+   docs/diy/README.md
+   Android hardening <https://android.tymyrddin.dev/>
+   iOS hardening <https://ios.tymyrddin.dev/>
+   Hardening Windows <https://windows.tymyrddin.dev/>
+   Hardening GNU/Linux <https://linux.tymyrddin.dev/>
+   Hardening macOS <https://macos.tymyrddin.dev/>
 
 ----
 
@@ -70,14 +114,10 @@ Mobile threats
    :caption: TryHackMe rooms
 
    docs/thm/README.md
-   docs/thm/case1.md
-   docs/thm/case2.md
-   docs/thm/case3.md
+   docs/thm/cases.md
    docs/thm/greenholt.md
    Android malware analysis (Pithus and jadx) <https://dfir.tymyrddin.dev/docs/thm/android>
    iOS forensics (SQLiteDB) <https://dfir.tymyrddin.dev/docs/thm/ios>
-
-----
 
 .. toctree::
    :glob:

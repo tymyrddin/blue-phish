@@ -16,8 +16,8 @@ To maintain share writeups on how to mitigate mobile threats.
 
 ## How?
 
-* [Smarter mailservers](https://mailserver.tymyrddin.dev/)
 * [User training](training.md)
-* [Mail signatures and encryption problem](problem.md)
+* [Email signatures and encryption problem](problem.md)
+* [Smarter mailservers](https://mailserver.tymyrddin.dev/)
 
 

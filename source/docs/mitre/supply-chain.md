@@ -1,6 +1,6 @@
-# Supply chain compromise
+# Supply chain compromise (mobile)
 
-[App squatting](../notes/squatting.md) and fake apps are listed by MITRE as [Mobile Technique ID T1474](https://attack.mitre.org/techniques/T1474/). 
+[App squatting](../mobile/squatting.md) and fake apps are listed by MITRE as [Mobile Technique ID T1474](https://attack.mitre.org/techniques/T1474/). 
 
 ## Mitigation
 

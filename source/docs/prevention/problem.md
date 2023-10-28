@@ -1,4 +1,4 @@
-# Signatures and encryption problem
+# Email signatures and encryption problem
 
 E-mail encryption methods (such as S/MIME, PGP, proprietary Web mail portals, and so on) to protect e-mail both 
 within an organisation and externally are increasingly used.

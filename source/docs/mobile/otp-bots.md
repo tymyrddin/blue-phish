@@ -19,4 +19,5 @@ Companies and organisations can use powerful bot management systems that can ide
 * [Threat Spotlight: Illicit Telegram Markets & OTP Bots](https://flare.io/learn/resources/blog/threat-spotlight-illicit-telegram-markets-otp-bots/), 2022
 * [Bots for Stealing One-Time Passwords Simplify Fraud Schemes](https://www.recordedfuture.com/bots-stealing-one-time-passwords-simplify-fraud-schemes), 2022
 * [How secure are one-time passwords from attacks?](https://www.techtarget.com/searchsecurity/feature/How-secure-are-one-time-passwords-from-attacks), 2022
+* [OTP Bot Setup for MFA Bypass Affecting P2P Services](https://www.cloudsek.com/threatintelligence/generaly-otp-bot-setup-for-mfa-bypass-affecting-p2p-services), 2022
 

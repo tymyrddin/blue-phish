@@ -10,7 +10,7 @@ After having obtained stolen username and password credentials from a black mark
 
 "In the olden days", adversaries only needed to get username and password combinations, so they made a fake authentication webpage and attempt to trick users into entering their credentials. With MFA everywhere, adversaries need username and password combination and the digital token or one-time password used as the second form of authentication.
 
-A new tactic is to use MitM instead, and insert themselves between the user and the legitimate login page. Users will receive a  request to access their MFA provider, through [phishing](phishing.md), [smishing](smishing.md), [vishing](vishing.md) or [OTP bots](otp-bots.md), that entices users to click on a link, which then directs them through a malicious proxy server to the legitimate login page. The adversaries capture the credentials on the proxy server and then modify the session cookie to gain access. And variations on that scenario.
+A new tactic is to use MitM instead, and insert themselves between the user and the legitimate login page. Users will receive a  request to access their MFA provider, through [phishing](phishing.md), [smishing](../mobile/smishing.md), [vishing](../mobile/vishing.md) or [OTP bots](../mobile/otp-bots.md), that entices users to click on a link, which then directs them through a malicious proxy server to the legitimate login page. The adversaries capture the credentials on the proxy server and then modify the session cookie to gain access. And variations on that scenario.
 
 ## Token stealing
 

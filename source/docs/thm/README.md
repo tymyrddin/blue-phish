@@ -14,9 +14,7 @@ To practice.
 
 ## How?
 
-* [Case 1](case1.md)
-* [Case 2](case2.md)
-* [Case 3](case3.md)
+* [Basic phishing labs](cases.md)
 * [The Greenholt Phish](greenholt.md)
 
 

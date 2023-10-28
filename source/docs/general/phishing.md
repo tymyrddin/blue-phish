@@ -1,6 +1,6 @@
 # Phishing
 
-Phishing attempts to trick people into clicking on fraudulent links in emails. The link typically takes the person to a seemingly legitimate site with a malware download, or even just a form that asks them to type in their usernames, passwords, credit card numbers, bank account details, and other private information.
+Phishing attempts to trick people into clicking on fraudulent links in emails (on their workstation, mobile, tablet, iPad). The link typically takes the person to a seemingly legitimate site with a malware download, or even just a form that asks them to type in their usernames, passwords, credit card numbers, bank account details, and other private information.
 
 ## Detection
 
