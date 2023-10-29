@@ -9,4 +9,4 @@ Once a threat actor has purchased an InfoStealer from a dark web or Telegram mar
 * Adding the malicious code to a [squatted app](squatting.md), and then making that corrupted lookalike application available for download from popular app stores. 
 * Paying for advertising on Google Ads and Facebook Ads to trick more people into downloading the malware. Using paid ads to distribute malware works wonders because it leverages the trust that people have in both the advertising platform and the brand that they are impersonating on the fake site. If a user sees an ad after making a query in a search engine, they implicitly assume that it is safe to click because they trust the search engine.
 
-The increased sophistication and complexity is making it more difficult for defenders to detect and prevent infostealers, and requires way [more robust operation security training](../prevention/training.md). 
+The increased sophistication and complexity is making it more difficult for defenders to detect and prevent infostealers, and requires way [more robust operation security training](../strategies/training.md). 

@@ -35,3 +35,13 @@ Mind that with AI-driven content tools broadly available at a low or no cost, ad
 * Think before you click 'unsubscribe'.
 * Web browsers include settings to restrict access to dangerous websites, and when one attempts to access a bad site, an alert message appears. Do not ignore these warnings and do not visit that website or access that file.
 * Keep your browser updated, and install the NoScript extension.
+
+## Other mitigations
+
+* [Email security (SPF, DKIM, DMARC)](https://mailserver.tymyrddin.dev/)
+* SPAM filters (flags or blocks incoming emails based on reputation)
+* Email labels (alert users that an incoming email is from an outside source)
+* Email address/domain/URL Blocking (based on reputation or explicit denylist, preferably whitelisting)
+* Attachment blocking (based on the extension of the attachment)
+* Attachment sandboxing (detonating email attachments in a sandbox environment to detect malicious activity)
+* Security awareness training (internal phishing campaigns)

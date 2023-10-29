@@ -73,6 +73,9 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
 
 ----
 
+Prevent\|Detect\|Respond
+---------------------------------
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -90,12 +93,13 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Defence strategies
+   :caption: Strategies
 
-   docs/prevention/README.md
-   docs/prevention/training.md
-   docs/prevention/problem.md
-   Smarter mail servers <https://mailserver.tymyrddin.dev/>
+   docs/strategies/README.md
+   docs/strategies/strategy.md
+   docs/strategies/training.md
+   docs/strategies/problem.md
+
 
 .. toctree::
    :glob:
@@ -109,6 +113,7 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
    Hardening Windows <https://windows.tymyrddin.dev/>
    Hardening GNU/Linux <https://linux.tymyrddin.dev/>
    Hardening macOS <https://macos.tymyrddin.dev/>
+   Smarter mail servers <https://mailserver.tymyrddin.dev/>
 
 ----
 
