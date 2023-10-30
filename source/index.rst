@@ -1,7 +1,7 @@
 Threat landscape
 ====================================
 
-Threat landscapes usually describe attack surfaces and threats to corporations, and hardly to users. This is to clarify and research threats to people's devices, and where possible, link in DIY device hardening how-tos.
+Threat landscapes usually describe attack surfaces and threats to corporations, and hardly to users. These notes and lab writeups are for clarifying current threats to people's devices, describe their Prevent\|Detect\|Respond, strategise security approaches, and where possible, link in DIY device hardening how-tos.
 
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
@@ -19,11 +19,14 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
 
 ----
 
+Threats
+----------------------------
+
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: General threats
+   :caption: General
 
    docs/general/README.md
    docs/general/terms.md
@@ -39,7 +42,7 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Mobile threats
+   :caption: Mobile
 
    docs/mobile/README.md
    docs/mobile/malware.md
@@ -62,7 +65,7 @@ Threat landscapes usually describe attack surfaces and threats to corporations, 
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Workstation threats
+   :caption: Workstation
 
    docs/workstation/README.md
    docs/workstation/malware.md
@@ -116,6 +119,9 @@ Prevent\|Detect\|Respond
    Smarter mail servers <https://mailserver.tymyrddin.dev/>
 
 ----
+
+Labs
+----------------------------
 
 .. toctree::
    :glob:
