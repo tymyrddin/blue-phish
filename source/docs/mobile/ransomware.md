@@ -8,11 +8,11 @@ Mobile ransomware sneaks onto your device using social engineering tactics that 
 
 Traditional ransomware encrypts the files on a device, and some, but not all, Android ransomware variants do encrypt. WannaLocker uses AES encryption to encrypt files.
 
-Different types of techniques can be used to deny a victim access to the device:
+Different types of living of the land techniques" techniques can be used to deny a victim access to the device:
 
-* Abusing functionalities.
-* Hijacking permissions. 
-* Resetting device PIN. Examples of these are  DoubleLocker and CovidLock.
+* Abusing functionalities (MalLocker).
+* Hijacking permissions (Strandhogg attack). 
+* Resetting device PIN (DoubleLocker and CovidLock).
 
 Both [iPhone](https://ios.tymyrddin.dev/docs/malware/ransomware) and [Android](https://android.tymyrddin.dev/docs/malware/ransomware) users have easy access to cheap, cloud-based backup tools (Apple iCloud and Google One), which makes it easy to wipe and restore devices, in the event of a ransomware attack, with minimal loss of data.
 

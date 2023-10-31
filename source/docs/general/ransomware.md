@@ -1,16 +1,16 @@
-# Ransomware-as-a-Service (RaaS) operations
+# Ransomware-as-a-Service (RaaS)
 
 Think of Ransomware-as-a-service (RaaS) and the larger Crime-as-a-Service (CaaS) market as a variation of the Software-as-a-Service (SaaS) business model. In this business model, developers offer negotiations, cryptocurrency transfers, leak site management, ransomware development, etc. to multiple affiliates. Affiliates receive the largest percentage of the ransom received in trade for the risk of getting identified and arrested. RaaS allows less experienced adversaries to carry out attacks. 
 
-For workstations (Windows, macOS, *nix), a ransomware infection means that data on the device has been encrypted or the operating system is being blocked, and its owner receives a message to pay a ransom. [Mobile ransomware](../mobile/ransomware.md) variants can also encrypt, but most use other techniques.
+For [workstations](../workstation/ransomware.md) (Windows, macOS, *nix), a ransomware infection means that data on the device has been encrypted or the operating system is being blocked, and its owner receives a message to pay a ransom. [Mobile ransomware](../mobile/ransomware.md) (Android, iOS) variants can also encrypt, but most use other techniques. A ransomware attack can mean the loss of data, spending large sums of money, or both. 
 
 Ransomware can find its way onto a device in many different ways. Phishing used to be the main point of entry attack. While these are still used, [drive-by download](drive-by.md) (has nothing to do with driving a car, but with visiting websites), VPN vulnerabilities and distribution over botnets are more likely used. 
 
-While individuals, companies, and NGO's are all targets, the compromise of a small number of user accounts that have additional access or privileges, are especially valuable to [adversaries](adversaries.md). 
+While individuals, companies, and NGOs are all targets, the compromise of a small number of user accounts that have additional access or privileges, are especially valuable to [adversaries](adversaries.md).
 
-A ransomware attack can mean the loss of data, spending large sums of money, or both. 
+## Tongue, cheek
 
-***Use Deploy Disaster-Recovery-as-a-Service (DRaaS) to ensure quick recovery in case of an attack.***
+***Deploy Disaster-Recovery-as-a-Service (DRaaS) to ensure quick recovery in case of an attack.***
 
 ## Detection
 
