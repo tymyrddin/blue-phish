@@ -2,13 +2,13 @@
 
 GPS-enabled devices can be small and easily hidden, and an abuser can hide a device in handbags, clothing, or car.  
 
-The GPS in a phone can also be used to track a survivor (of intimate partner abuse). The location information through the GPS in a phone is not automatically available to another person, but there are a variety of ways that an abuser could get that information. 
+The GPS in a phone can also be used to track a survivor (of abuse). The location information through the GPS in a phone is not automatically available to another person, but there are a variety of ways that an abuser could get that information. 
 
-| Tool | Claims | Platform |
-|----- | ----- |----- |
-| [AirTag](https://www.apple.com/airtag/) | Item trackers | Android and Apple devices |
-| [Tile](https://tile.com/) | Item trackers | Android and Apple devices |
-| [Cerberus](https://www.cerberusapp.com/) | Phone tracker | Android |
+| Tool                                     | Claims        | Platform                  |
+|------------------------------------------|---------------|---------------------------|
+| [AirTag](https://www.apple.com/airtag/)  | Item trackers | Android and Apple devices |
+| [Tile](https://tile.com/)                | Item trackers | Android and Apple devices |
+| [Cerberus](https://www.cerberusapp.com/) | Phone tracker | Android                   |
 
 The latest example of GPS-enabled devices is the AirTag, a small, puck-shaped tracker meant for locating misplaced or stolen items with the ***Find My app***. AirTags use ultra-wideband technology and take advantage of Apple's existing network of devices, which work as crowdsourced beacons to ping each other in order to determine your missing item's location.
 
