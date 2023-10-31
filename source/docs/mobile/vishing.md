@@ -6,11 +6,11 @@ Vishing is a type of phishing that uses phone, robocall, voicemail, voice over i
 
 A robocall is an automated telephone call that delivers a pre-recorded message. Organisations, telemarketers, and adversaries use robocalls to reach millions of phones every single day. They make people's phones ring with natural-sounding recorded voices and offer everything from auto warranties to games. In some cases it can even issues a threat to get your attention. Some robocalls can even respond to your questions. 
 
-Robocalls are made using auto-dialing software, and may use caller ID spoofing technology to make it seem as if the phone call is coming from someone else. This technology enables the use of robocalls for malicious purposes including vishing and identity theft.
+Robocalls are made using auto-dialing software, and may use caller ID spoofing technology to make it seem as if the phone call is coming from someone else. 
 
 ## Detection
 
-* If callers are legitimate, it should not be difficult to authenticate their professional affiliation with a phone call. If they do not provide the information necessary to verify their identity, they can not be trusted. 
+* If callers are legitimate, it should not be difficult to authenticate their professional affiliation with another phone call. If they do not provide the information necessary to verify their identity, they can not be trusted. 
 * Callers creating a sense of urgency is a huge social engineering red flag.
 * Caller sending unsolicited email or SMS messages is another red flag.
 
@@ -18,10 +18,10 @@ Robocalls are made using auto-dialing software, and may use caller ID spoofing t
 
 * Hang up as soon as you notice it is a robocall.
 * Never say "yes" to any question.
-* Ignore any and all instructions, not even seemingly harmless instructions. It is a slippery social engineering slope.
+* Ignore any and all instructions, not even seemingly harmless instructions. Slippery social engineering slope.
 * Write down any information the person or robot provides on the call — without providing any details of your own. Do not give out ***any*** personal information over a phone, ever.
 * Do not click on links in [emails](../general/phishing.md) or in [mobile phone SMS text messages](smishing.md) the caller might send. 
-* Phone technology exists that locks a phone line after hanging up and redirecting next calls to the fraudulent caller. Do not call back using the same phone on which you received the call. 
+* Phone technology that locks a phone line after hanging up and redirecting next calls to the fraudulent caller exists. Do not call back using the same phone on which you received the call. 
 * Note the number, what they said/did and report the call to a "Do Not Call" registry and/or anti-fraud program (if existing in your country). 
 
 ## Prevention

@@ -11,9 +11,9 @@ These patterns are based on business contexts, and most are not useful for home 
 * Login attempts from countries with which you have no exchanges otherwise.
 * An existing user tries to log in many times.
 * Failed logins for user accounts that do not exist.
-* A wave in Database Read Volume.
-* A sudden increase in Hypertext Markup Language (HTML) response size.
+* A wave in Database Read Volume (exfiltration).
+* A sudden increase in Hypertext Markup Language (HTML) response size (exfiltration).
 * The same file is requested many times (in different ways).
 * ***Unusual ports are being used.***
-* Changes to the Windows registry or system files.
+* Changes to the Windows registry or system files (persistence).
 * ***Anomalous Domain Name System (DNS) requests from a specific host.***

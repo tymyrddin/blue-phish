@@ -11,7 +11,7 @@ Provide a background.
 ## How?
 
 * [Terms](terms.md)
-* [Threat trends](trends.md)
+* [Adversaries](adversaries.md)
 * [Malware](malware.md)
 * [Ransomware](ransomware.md)
 * [Phishing in general](phishing.md)

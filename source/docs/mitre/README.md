@@ -2,13 +2,11 @@
 
 ## What?
 
-Investigating known related MITRE tactics, techniques and procedures (TTPs) employed by adversaries. 
+Understanding our current defensive capabilities and mapping them against Mitre Att&Ck framework. MITRE offers a better understanding of the operations of threat actors, enabling systematic and repeatable categorisation.
 
 ## Why?
 
-MITRE offers a better understanding of the operations of threat actors, enabling systematic and repeatable categorisation.
-
-As part of their efforts to support the Att&Ck framework, Mitre tracks 138 cyberthreat groups. Monitoring the collective activity of these groups is an essential component of mapping and analysing the threat landscape.
+Helpful for discovering where and how best to invest our time and energy. Then layer the same with potential threats to our devices and (home) networks. The gaps discovered are the areas that should be focused first.
 
 ## How?
 
@@ -16,3 +14,5 @@ As part of their efforts to support the Att&Ck framework, Mitre tracks 138 cyber
 * [Application Layer Protocol: Mail Protocols](c2.md)
 * [Drive-by compromise](drive-by.md)
 * [Supply chain compromise (mobile)](supply-chain.md)
+* [Gaps in defensive capabilities](gaps.md)
+* [A Prevent|Detect|Respond strategy](strategy.md)

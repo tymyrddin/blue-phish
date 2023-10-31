@@ -2,11 +2,11 @@
 
 ## What?
 
-DIY How-to hardening of devices.
+Design and organise security operations training. Not for users, not for employees, not for activists, for people! Make it fun, with posters, simulations and hands-on hardening exercises for all likely endpoints. 
 
 ## Why?
 
-Not waiting for a better world.
+Take control of your devices. 
 
 ## How?
 

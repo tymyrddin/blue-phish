@@ -1,7 +1,8 @@
 # Location tracking
 
 GPS-enabled devices can be small and easily hidden, and an abuser can hide a device in handbags, clothing, or car.  
-The GPS in a phone can also be used to track a survivor. The location information through the GPS in a phone is not automatically available to another person, but there are a variety of ways that an abuser could get that information. 
+
+The GPS in a phone can also be used to track a survivor (of intimate partner abuse). The location information through the GPS in a phone is not automatically available to another person, but there are a variety of ways that an abuser could get that information. 
 
 | Tool | Claims | Platform |
 |----- | ----- |----- |
@@ -9,11 +10,11 @@ The GPS in a phone can also be used to track a survivor. The location informatio
 | [Tile](https://tile.com/) | Item trackers | Android and Apple devices |
 | [Cerberus](https://www.cerberusapp.com/) | Phone tracker | Android |
 
-The latest example of GPS-enabled devices is the AirTag, a small, puck-shaped tracker meant for locating misplaced or stolen items with the Find My app. AirTags use ultra-wideband technology and take advantage of Apple's existing network of devices, which work as crowdsourced beacons to ping each other in order to determine your missing item's location.
+The latest example of GPS-enabled devices is the AirTag, a small, puck-shaped tracker meant for locating misplaced or stolen items with the ***Find My app***. AirTags use ultra-wideband technology and take advantage of Apple's existing network of devices, which work as crowdsourced beacons to ping each other in order to determine your missing item's location.
 
 Tracking an AirTag requires iOS 14.5 (iPhone or iPad). ***Precision Finding*** requires an iPhone 11 or 12. 
 
-AirTags are being used by stalkers for tracking survivors, Apple makes a few promises, and Google rolls out a safety feature on Android to allow users to be alerted automatically if an unknown Bluetooth device is travelling with them — a sign that could point to the possibility that someone is stalking them using an Apple AirTag or other Bluetooth tracking device. Users will also be able to manually scan for trackers with their Android device and be guided through tips on what to do next if a tracking device is found.
+AirTags are being used by stalkers for tracking survivors, that goes public, Apple makes a few promises, and Google rolls out a safety feature on Android to be alerted automatically if an unknown Bluetooth device is travelling with them — a sign that could point to the possibility that someone is stalking them using an Apple AirTag or other Bluetooth tracking device. Users will also be able to manually scan for trackers with their Android device and be guided through tips on what to do next if a tracking device is found.
 
 ## Resources
 

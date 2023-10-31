@@ -15,3 +15,7 @@ A new tactic is to use MitM instead, and insert themselves between the user and 
 ## Token stealing
 
 Making life easier for users, "session cookies" are stored on endpoint devices, so users don’t have to re-authenticate during sessions. These can be stolen and placed within the session of the adversary, making the browser believe the actual trusted user is being authenticated.
+
+## Layer upon layer
+
+So MFA was invented to protect authorisation. Now we need a next layer to protect MFA. 

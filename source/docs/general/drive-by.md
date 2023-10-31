@@ -1,8 +1,10 @@
 # Drive-by download
 
-A drive-by download attack refers to the unintentional download of malicious code to your device that leaves you open to an attack. This can happen while browsing a legitimate website or through a malicious advertisement displayed on an otherwise safe site. This type of attack comes in authorised and unauthorised varieties. In the latter case, it is not necessary to click on anything. download, or open a malicious email attachment to become infected.
+A drive-by download attack refers to the unintentional download of malicious code to your device that leaves you open to an attack. This can happen while browsing a legitimate website or through a malicious advertisement displayed on an otherwise safe site. 
 
-Drive-by downloads can install non-malicious potentially unwanted programs or applications (PUPs/PUAs in mobiles, which are clean, but may be [../mobile/madware](../mobile/madware.md) at its worst) or malware-loaded attacks with intention to hijack a device, install spyware, or to ruin data or disable the device (a targeted personal attack).
+This type of attack comes in authorised and unauthorised flavours. With the latter, for the device to become infected it is not necessary to click on anything, to download, or to open a malicious email attachment. It just happens magically.
+
+Drive-by downloads can install non-malicious potentially unwanted programs or applications (PUPs/PUAs in mobiles, which are clean, but may actually be [madware](../mobile/madware.md) at its worst) or malware-loaded attacks with intention to hijack a device, install spyware, or ruin data or disable the device (a targeted personal attack).
 
 ## Authorised downloads
 
@@ -13,7 +15,7 @@ Drive-by downloads can install non-malicious potentially unwanted programs or ap
 
 ## Unauthorised downloads
 
-1. Adversary compromises a legit web page using a security flaw in website and adds a malicious component.
+1. Adversary compromises a legitimate web page using a security flaw in website and adds a malicious component.
 2. You visit the page, and it finds your device's security flaw.
 3. The flaw is exploited and malware is downloaded to your device.
 4. The adversary has control over your device.

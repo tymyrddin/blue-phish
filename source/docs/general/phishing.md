@@ -1,6 +1,6 @@
 # Phishing
 
-Phishing attempts to trick people into clicking on fraudulent links in emails (on their workstation, mobile, tablet, iPad). The link typically takes the person to a seemingly legitimate site with a malware download, or even just a form that asks them to type in their usernames, passwords, credit card numbers, bank account details, and other private information.
+Phishing attempts to trick people into clicking on fraudulent links in emails (on their workstation, mobile, tablet, iPad). The link typically takes the person to a seemingly legitimate site with a malware download.
 
 ## Detection
 
@@ -13,11 +13,11 @@ Phishing attempts to trick people into clicking on fraudulent links in emails (o
 * Generic greetings are not the common practices of legitimate companies.
 * Poor quality logos that are unclear or smaller than usual.
 
-Mind that with AI-driven content tools broadly available at a low or no cost, adversaries are using AI to make their phishing emails and text messages appear more realistic than ever before. Trust your gut, and if suspicious, do some analysis.
+Mind that with AI-driven content tools broadly available at a low or no cost, adversaries are using such tools to make their phishing emails and text messages appear more realistic than ever before. Trust your gut, and if suspicious, do some analysis.
 
 ## Analysis
 
-* Copy and paste the entire email header and run an [email header analysis tool](https://testlab.tymyrddin.dev/docs/phishing/header). It is good to have multiple resources to refer to as each tool might reveal information that another tool may not reveal.
+* Copy and paste the entire email header and run an [email header analysis tool](https://testlab.tymyrddin.dev/docs/phishing/header). It is good to use multiple resources as each tool might reveal information that another tool may not.
 * [Extract urls from the text](https://testlab.tymyrddin.dev/docs/phishing/url) for further analysis.
 * [Check sender's IP address and urls found in the text](https://testlab.tymyrddin.dev/docs/phishing/ip).
 * If the email has an attachment: Obtain the attachment safely. If you don't know how, ask someone who does. Get its hash and [check the file's reputation](https://testlab.tymyrddin.dev/docs/phishing/rep) with the hash to see if it's a known malicious document.

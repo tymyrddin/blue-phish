@@ -30,7 +30,7 @@ Threats
 
    docs/general/README.md
    docs/general/terms.md
-   docs/general/trends.md
+   docs/general/adversaries.md
    docs/general/malware.md
    docs/general/ransomware.md
    docs/general/phishing.md
@@ -42,17 +42,14 @@ Threats
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Mobile
+   :caption: Mobile specific
 
    docs/mobile/README.md
    docs/mobile/malware.md
-   docs/general/phishing.md
    docs/mobile/smishing.md
    docs/mobile/vishing.md
    docs/mobile/swapping.md
-   docs/general/mfa.md
    docs/mobile/otp-bots.md
-   docs/general/drive-by.md
    docs/mobile/squatting.md
    docs/mobile/ransomware.md
    docs/mobile/madware.md
@@ -65,14 +62,11 @@ Threats
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Workstation
+   :caption: Workstation specific
 
    docs/workstation/README.md
    docs/workstation/malware.md
    docs/workstation/ransomware.md
-   docs/general/phishing.md
-   docs/general/mfa.md
-   docs/general/drive-by.md
 
 ----
 
@@ -91,18 +85,8 @@ Prevent\|Detect\|Respond
    docs/mitre/supply-chain.md
    docs/mitre/phishing.md
    docs/mitre/c2.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Strategies
-
-   docs/strategies/README.md
-   docs/strategies/strategy.md
-   docs/strategies/training.md
-   docs/strategies/problem.md
-
+   docs/mitre/gaps.md
+   docs/mitre/strategy.md
 
 .. toctree::
    :glob:

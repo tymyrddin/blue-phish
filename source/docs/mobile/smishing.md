@@ -11,7 +11,7 @@ Smishing is similar to [phishing](../general/phishing.md), except that it comes 
 ## Mitigation
 
 * Avoid responding to a phone number that you do not recognise.
-* Never send credit card numbers, ATM PINs, or banking information to someone via text messages.
+* Never send credit card numbers, ATM PINs, or banking information to someone via text messages. Or on the phone, over email, ...
 * If a text claims to be from a specific organisation or individual, contact that entity directly using known contact information, not the details provided in the text.
 
 ## Prevention
