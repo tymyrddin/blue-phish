@@ -1,6 +1,6 @@
 # Infostealer-as-a-Service (IaaS)
 
-Infostealer attacks are typically financially motivated. Infostealers are a type of MaaS that extracts data from infected devices. An adversary buys an InfoStealer from a dark web or Telegram marketplace, spreads the malware onto as many machines as possible, collects and organises the information, and then sells the information on the black market (dark web or Telegram).
+Infostealer attacks are typically financially motivated. Infostealers are a type of MaaS that extracts data from infected devices. An adversary buys an InfoStealer from a [marketplace](marketplace.md), spreads the malware onto as many machines as possible, collects and organises the information, and then sells the information on the black market (dark web or Telegram).
 
 ## How infostealers are distributed
 
@@ -21,7 +21,7 @@ Then putting a social engineering cherry on top: Paying for advertising on Googl
 * Screenshots.
 * Specific file types (commonly images, documents, spreadsheets, etc.)
 
-The stolen data is analysed and any valuable information is collated and organised into a database, which can then be sold on the black market.
+The stolen data is analysed and any valuable information is collated and organised into a database, which can then be sold on the [black market](marketplace.md).
 
 ## Who is targeted
 
