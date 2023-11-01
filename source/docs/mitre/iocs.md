@@ -1,4 +1,4 @@
-# Signs of a compromise at home
+# Signs of a compromise @home
 
 These patterns are based on business contexts, and most are not useful for home use, unless you run servers locally. The network patterns boldfaced *are* useful in a home context [in this first strategy](../diy/strategy.md).
 

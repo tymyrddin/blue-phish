@@ -1,21 +1,12 @@
-Threat landscape
+Threat landscape @home
 ====================================
 
-Threat landscapes usually describe attack surfaces and threats to corporations, and hardly to users. These notes and lab writeups are for clarifying current threats to people's devices, describe their Prevent\|Detect\|Respond, strategise security approaches, and where possible, link in DIY device hardening how-tos.
+The below writeups are based on reading the usual threat landscapes, picking up what is reuseful for defending people's devices, researching and adding what seems to be missing for @home contexts, updating passive defence strategies, and linking in some device hardening how-tos and hands-on exercises.
+
+With that as foundation, we can develop the more unusual active defence strategies.
 
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
-
-----
-
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Testlab
-
-   Phishing analysis tools <https://testlab.tymyrddin.dev/docs/phishing/README>
-   Mobile tools <https://testlab.tymyrddin.dev/docs/mobile/README>
-   RE tools <https://testlab.tymyrddin.dev/docs/dis/README>
 
 ----
 
@@ -117,6 +108,17 @@ DIY
    Hardening macOS <https://macos.tymyrddin.dev/>
    Smarter mail servers <https://mailserver.tymyrddin.dev/>
    Active defence <https://honey.tymyrddin.dev/>
+
+----
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Testlab
+
+   Phishing analysis tools <https://testlab.tymyrddin.dev/docs/phishing/README>
+   Mobile tools <https://testlab.tymyrddin.dev/docs/mobile/README>
+   Reverse engineering tools <https://testlab.tymyrddin.dev/docs/dis/README>
 
 .. toctree::
    :glob:
