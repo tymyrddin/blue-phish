@@ -1,6 +1,6 @@
 # Signs of a compromise at home
 
-These patterns are based on business contexts, and most are not useful for home use, unless you run servers locally. The network patterns *are* useful in a home context.
+These patterns are based on business contexts, and most are not useful for home use, unless you run servers locally. The network patterns boldfaced *are* useful in a home context [in this first strategy](../diy/strategy.md).
 
 * ***If outbound traffic patterns are suspiciously unusual, you can keep a closer eye on it to check if something nefarious is happening.***
 * Anomalies in the behaviour (activity) of privileged user accounts.

@@ -47,11 +47,11 @@ Threats
    :caption: Mitre Att&Ck
 
    docs/mitre/README.md
-   docs/mitre/iocs.md
    docs/mitre/drive-by.md
    docs/mitre/supply-chain.md
    docs/mitre/phishing.md
    docs/mitre/c2.md
+   docs/mitre/iocs.md
 
 ----
 
