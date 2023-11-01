@@ -23,7 +23,6 @@ First off, by some research into known threats.
 * [Ransomware](ransomware.md)
 * [Madware](madware.md)
 * [Spyware](spyware.md)
-* [Infostealer](infostealer.md)
 * [Location tracking](tracking.md)
 * [Stalkerware](stalkerware.md)
 

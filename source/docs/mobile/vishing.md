@@ -20,7 +20,7 @@ Robocalls are made using auto-dialing software, and may use caller ID spoofing t
 * Never say "yes" to any question.
 * Ignore any and all instructions, not even seemingly harmless instructions. Slippery social engineering slope.
 * Write down any information the person or robot provides on the call — without providing any details of your own. Do not give out ***any*** personal information over a phone, ever.
-* Do not click on links in [emails](../general/phishing.md) or in [mobile phone SMS text messages](smishing.md) the caller might send. 
+* Do not click on links in [emails](../independent/phishing.md) or in [mobile phone SMS text messages](smishing.md) the caller might send. 
 * Phone technology that locks a phone line after hanging up and redirecting next calls to the fraudulent caller exists. Do not call back using the same phone on which you received the call. 
 * Note the number, what they said/did and report the call to a "Do Not Call" registry and/or anti-fraud program (if existing in your country). 
 

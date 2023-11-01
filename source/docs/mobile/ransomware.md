@@ -1,10 +1,6 @@
 # Ransomware
 
-Any ransomware tool development must be lucrative for the threat actor, which used to be far less likely in the case of locking a mobile device, as compared with locking all the Windows systems in an organisation. The bring-your-own-device (BYOD) trend has been growing for many years though.
-
-With Android the most common operating system for mobile devices, ransomwares targeting Android are on the rise. Publicly known ransomware threats to iOS are substantially less prevalent.
-
-Mobile ransomware sneaks onto your device using social engineering tactics that trick you into downloading malicious content, such as fake apps from third party app stores, [app squatting](squatting.md), infected system or software updates, [phishing](../general/phishing), or [smishing](smishing.md).
+Mobile ransomware sneaks onto your device using social engineering tactics that trick you into downloading malicious content, such as fake apps from third party app stores, [app squatting](squatting.md), infected system or software updates, [phishing](../independent/phishing), or [smishing](smishing.md).
 
 Traditional ransomware encrypts the files on a device, and some, but not all, Android ransomware variants do encrypt. WannaLocker uses AES encryption to encrypt files.
 

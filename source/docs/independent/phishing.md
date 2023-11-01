@@ -1,6 +1,6 @@
 # Phishing
 
-Phishing attempts to trick people into clicking on fraudulent links in emails (on their workstation, mobile, tablet, iPad). The link typically takes the person to a seemingly legitimate site with a malware download.
+Phishing attempts to trick people into clicking on fraudulent links in emails. The link typically takes the person to a seemingly legitimate site with a malware download.
 
 ## Detection
 

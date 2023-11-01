@@ -1,4 +1,4 @@
-# A Prevent|Detect|Respond strategy
+# A first strategy
 
 About a decade ago it was: Keep systems updated, patch, use strong passwords, install anti-malware, firewalls and proxies, etc.
 
@@ -12,7 +12,7 @@ Passive defence is all about measures taken to reduce the probability of and to 
 
 Prevent|Detect|Respond: Prevention is ideal ofcourse, and it requires detection, and detection without response is of little value ...
 
-## Strategy
+## Keep calm and ...
 
 * Prevent|Detect|Respond on [mobiles](../mobile/README) and [workstations](../workstation/README).
 * For home and small organisational networks, Raspberry Pi can be bought (not expensive), the [PiRogue suite](https://testlab.tymyrddin.dev/docs/mobile/pts) installed on it, and then used to catch indicators of compromise (IoAs and IoCs) on all our devices, including mobiles. 
